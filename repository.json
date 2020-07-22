@@ -1,0 +1,17 @@
+{
+  "author": "Craig Dewar",
+  "gitHubUrl": "https://github.com/craigde",
+  "payPalUrl": "https://paypal.me/craigde"
+  "packages": [
+    {
+      "name": "Weatherstation weather driver",
+      "category": "Convenience",
+      "location": "https://raw.githubusercontent.com/craigde/hubitat-weatherstation/master/packageManifest.json",
+      "description": "This is a driver for the free weatherstation API",
+      "tags": [
+        "Weather"
+      ],
+      "id": "f145ab43-b484-4cab-9840-81a42938fb3f"
+    }
+  ]
+}
