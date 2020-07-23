@@ -1,7 +1,7 @@
 {
   "author": "Craig Dewar",
   "gitHubUrl": "https://github.com/craigde",
-  "payPalUrl": "https://paypal.me/craigde"
+  "payPalUrl": ""
   "packages": [
     {
       "name": "Weatherstation weather driver",
