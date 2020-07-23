@@ -7,7 +7,7 @@
       "name": "Weatherstation weather driver",
       "category": "Convenience",
       "location": "https://raw.githubusercontent.com/craigde/hubitat-weatherstation/master/packageManifest.json",
-      "description": "This is a driver for the free weatherstation API",
+      "description": "This is a driver for the free weatherstack API. They provide 1,000 free calls per month so you can run an hourly refresh rate. It also calculates luminance seperately and can undate this more frequently.",
       "tags": [
         "Weather"
       ],
