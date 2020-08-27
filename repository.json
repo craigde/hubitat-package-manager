@@ -17,7 +17,7 @@
       "name": "Rainbird sprinkler controller driver",
       "category": "Control",
       "location": "https://raw.githubusercontent.com/craigde/hubitat-rainbird/master/packageManifest.json",
-      "description": "Driver for Rainbird sprinkler wifi controller"
+      "description": "Driver for Rainbird sprinkler wifi controller",
       "tags": [
         "Irrigation"
       ],
