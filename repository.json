@@ -22,6 +22,17 @@
         "Irrigation"
       ],
       "id": "f9be7125-468d-4747-b402-012182f99e2d"
+    },
+    {
+      "name": "Mysa Thermostat Integration",
+      "category": "Climate Control",
+      "location": "https://raw.githubusercontent.com/craigde/hubitat-mysa/main/packageManifest.json",
+      "description": "Integrates Mysa smart thermostats with Hubitat via real-time MQTT. Supports V1, V2, V2 Lite, and In-Floor models.",
+      "tags": [
+        "Thermostat",
+        "Climate Control"
+      ],
+      "id": "3f4e8a2b-1c5d-4e6f-9a8b-7c2d1e0f3a4b"
     }
   ]
 }
