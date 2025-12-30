@@ -33,6 +33,18 @@
         "Climate Control"
       ],
       "id": "3f4e8a2b-1c5d-4e6f-9a8b-7c2d1e0f3a4b"
+    },
+    {
+      "name": "Saunabox Driver",
+      "category": "Climate Control",
+      "location": "https://raw.githubusercontent.com/craigde/hubitat-saunabox/main/packageManifest.json",
+      "description": "A Hubitat Elevation driver for controlling and monitoring Blebox SaunaBox devices. Provides full thermostat integration, automatic safety shutoff, and intelligent polling.",
+      "tags": [
+        "Sauna",
+        "Climate Control",
+        "Thermostat"
+      ],
+      "id": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
     }
   ]
 }
