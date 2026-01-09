@@ -45,6 +45,17 @@
         "Thermostat"
       ],
       "id": "a1b2c3d4-5e6f-7a8b-9c0d-1e2f3a4b5c6d"
+    },
+    {
+      "name": "Home Connect Integration V3",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/craigde/hubitat-homeconnect-v3/main/packageManifest.json",
+      "description": "Integration for Home Connect appliances (Bosch, Thermador, Siemens, Gaggenau, and Neff). A complete rewrite with enhanced reliability and features.",
+      "tags": [
+        "Cloud",
+        "Appliances"
+      ],
+      "id": "b7e9c4a2-8d3f-4b1e-a5c6-9f0e2d1a3b8c"
     }
   ]
 }
