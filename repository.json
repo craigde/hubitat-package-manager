@@ -56,6 +56,17 @@
         "Appliances"
       ],
       "id": "b7e9c4a2-8d3f-4b1e-a5c6-9f0e2d1a3b8c"
+    },
+    {
+      "name": "Traeger WiFire Grill Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/craigde/hubitat-traeger/main/packageManifest.json",
+      "description": "Integrates Traeger WiFire grills with Hubitat via AWS IoT MQTT over WebSocket. Provides real-time grill, probe, and ambient temperatures, grill state, pellet level, and full command control.",
+      "tags": [
+        "Cloud",
+        "Thermostat"
+      ],
+      "id": "d4e5f6a7-8b9c-4d1e-a2f3-5c6b7a8e9d0f"
     }
   ]
 }
