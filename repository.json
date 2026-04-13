@@ -67,6 +67,17 @@
         "Thermostat"
       ],
       "id": "d4e5f6a7-8b9c-4d1e-a2f3-5c6b7a8e9d0f"
+    },
+    {
+      "name": "SmartHQ GE Appliances Integration",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/craigde/hubitat-SmartHQ/main/packageManifest.json",
+      "description": "Integration for GE SmartHQ appliances including refrigerators, ovens, dishwashers, laundry, microwaves, hoods, ice makers, portable ACs, and home water filters. Real-time WebSocket updates via the Brillion cloud API.",
+      "tags": [
+        "Cloud",
+        "Appliances"
+     ],
+     "id": "e2f3a4b5-c6d7-4e8f-9a0b-1c2d3e4f5a6b"
     }
   ]
 }
